@@ -1,3 +1,6 @@
+---
+title: Topic 1 Installation Guide
+---
 # Installation Guide
 
 [Back to Overview](overview.md)
