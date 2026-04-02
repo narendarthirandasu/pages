@@ -3,3 +3,11 @@ description: GitHub Pages Markdown Documentation
 theme: minima
 markdown: kramdown
 permalink: pretty
+
+# _config.yml
+highlighter: rouge
+
+# This tells Jekyll to process .md files in subfolders
+include:
+  - topic1/
+  - topic2/
