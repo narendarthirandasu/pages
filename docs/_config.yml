@@ -1,0 +1,5 @@
+title: Project Documentation
+description: GitHub Pages Markdown Documentation
+theme: minima
+markdown: kramdown
+permalink: pretty
