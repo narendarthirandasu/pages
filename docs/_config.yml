@@ -3,3 +3,4 @@ description: GitHub Pages Markdown Documentation
 theme: minima
 markdown: kramdown
 permalink: pretty
+theme: jekyll-theme-minimal
