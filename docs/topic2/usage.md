@@ -1,11 +1,15 @@
+---
+title: Usage Guide
+---
+
 # Topic 2 - Usage Guide
 
-[Back to Home](../index.md)
+[Back to Home](../index.html)
 
 ## Basic Usage
 
-[Examples](examples.md)
+[Examples](examples.html)
 
 ## Advanced Topics
 
-[Level 1](advanced/level1.md)
+[Level 1](advanced/level1.html)

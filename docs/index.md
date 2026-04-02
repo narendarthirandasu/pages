@@ -1,11 +1,15 @@
+---
+title: Home
+---
+
 # Project Documentation
 
 Welcome to the project documentation.
 
 ## Topics
 
-- [Topic 1 - Getting Started](topic1/overview.md)
-- [Topic 2 - Usage Guide](topic2/usage.md)
+- [Topic 1 - Getting Started](topic1/overview.html)
+- [Topic 2 - Usage Guide](topic2/usage.html)
 - [PDF Guide](assets/pdf/guide.pdf)
 
 ## External Links

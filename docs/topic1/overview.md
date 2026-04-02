@@ -1,9 +1,10 @@
 ---
-title: Topic 1 Getting Started
+title: Topic 1 Overview
 ---
+
 # Topic 1 - Getting Started
 
-[Back to Home](../index.md)
+[Back to Home](../index.html)
 
 ## Introduction
 
@@ -19,6 +20,6 @@ Explain scope.
 
 ## Installation
 
-[Installation Steps](installation.md)
+[Installation Steps](installation.html)
 
 ![Flow](../assets/images/flow.png)
